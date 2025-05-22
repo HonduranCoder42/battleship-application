@@ -1,6 +1,3 @@
-// class definitions for battleship assignment battleship.h
-// class definitions for battleship assignment
-
 #ifndef BATTLESHIP_H_
 #define BATTLESHIP_H_
 

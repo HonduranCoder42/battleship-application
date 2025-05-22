@@ -7,8 +7,6 @@ using namespace std;
 //this is a friend function to Location class.
 bool compare(const Location& loc1, const Location& loc2) {
     return (loc1 == loc2);
-    /*nitoce that == operator is overloaded for the Location class*/
-
 }
 
 //overloding the << operator to teach the compiler how to print a ship info using cout
